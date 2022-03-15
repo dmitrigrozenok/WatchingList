@@ -9,3 +9,6 @@ DB Indexes:
 * Things every developer absolutely, positively needs to know about database indexing https://www.youtube.com/watch?v=HubezKbFL7E
 * PostgreSQL Indexing : How, why, and when. https://youtube.com/watch?v=clrtT_4WBAw
 * A talk about indexes https://www.youtube.com/watch?v=HAn1xu6_SW0
+
+AWS CDK and AWS Solutions Constructs
+* https://www.youtube.com/watch?v=-_Zl9u9i1KI
