@@ -1,6 +1,7 @@
 # List of useful videos
 
 RailsConf 2015 - Implementing a Strong Code-Review Culture: https://www.youtube.com/watch?v=PJjmw9TRB7s
+
 Hibernate should be to programmers what cake mixes are to bakers: beneath their dignity: https://vimeo.com/28885655
 
 
