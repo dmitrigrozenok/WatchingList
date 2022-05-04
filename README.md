@@ -1,6 +1,8 @@
 # List of useful videos
 
 RailsConf 2015 - Implementing a Strong Code-Review Culture: https://www.youtube.com/watch?v=PJjmw9TRB7s
+Hibernate should be to programmers what cake mixes are to bakers: beneath their dignity: https://vimeo.com/28885655
+
 
 David Farley's YouTube channel: https://www.youtube.com/channel/UCCfqyGl3nq_V0bo64CjZh8g
 * Continuous Integration vs Feature Branch Workflow: https://www.youtube.com/watch?v=v4Ijkq6Myfc
