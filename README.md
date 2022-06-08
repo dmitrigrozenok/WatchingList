@@ -7,6 +7,7 @@ Hibernate should be to programmers what cake mixes are to bakers: beneath their 
 
 David Farley's YouTube channel: https://www.youtube.com/channel/UCCfqyGl3nq_V0bo64CjZh8g
 * Continuous Integration vs Feature Branch Workflow: https://www.youtube.com/watch?v=v4Ijkq6Myfc
+* Why Your Software Team CAN’T Scale: https://www.youtube.com/watch?v=pw686Oyeqmw
 
 DB Indexes:
 * Things every developer absolutely, positively needs to know about database indexing https://www.youtube.com/watch?v=HubezKbFL7E
